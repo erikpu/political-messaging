@@ -4,5 +4,6 @@ token.txt
 # Jupyter notebook checkpoints #
 .ipynb_checkpoints/
 
-# Samples #
-samples/
+# Text files #
+*.txt
+*.csv
