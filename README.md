@@ -7,7 +7,8 @@ This repository contains all relevant code used in my Master's Thesis project ab
 The thesis aims to gain more insight into the extent to which different messaging strategies by political parties engage users on social media. It does so by examining the messaging of political parties and party leaders on Twitter during the 2021 elections for the House of Representatives in The Netherlands.
 
 ## Technologies
-Python 3.6
+- Python 3.6
+- Jupyter Notebook
 
 ## Contents
 ### CreateUsers.ipynb
