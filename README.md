@@ -22,3 +22,11 @@ This notebook is used to generate random samples given a text file of Tweets. It
 
 ### Krippendorff.ipynb
 This notebook is used to calculate Krippendorff's alpha given a csv-file of codings.
+
+## Getting started
+1. Run CreateUsers.ipynb to create a local document containing user data for Tweet collection.
+2. Run RetrieveTweets.ipynb to collect and format the Tweets.
+3. Run Sampling.ipynb to create samples for the gold-standard dataset and intercoder reliability.
+4. Run Krippendorff.ipynb to verify intercoder reliability.
+5. Run MergeAnnotations.ipynb to merge manual annotations for the gold-standard dataset with the Tweet dataset.
+6. Run PreProcessing.ipynb to pre-process the Tweets in preparation for machine learning.
