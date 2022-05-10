@@ -7,3 +7,6 @@ token.txt
 # Text files #
 *.txt
 *.csv
+
+# Images #
+*.png
