@@ -28,6 +28,9 @@ This notebook is used to find optimal parameters for the classification model. I
 ### PreProcessing.ipynb
 This notebook is used to pre-process the Tweets to prepare them for generating features for the machine learning algorithm.
 
+### Results.ipynb
+This notebook is used to visualize results based on the classified Tweets. The average engagement per messaging strategy is provided in table format. Also, the number of Tweets and average engagement per week can be visualized for all or a selection or parties. The use of messaging strategies per week can also be visualized for all or a selection of parties.
+
 ### RetrieveTweets.ipynb
 This notebook is used to retrieve Tweets using Twitter API. The users file created in CreateUsers.ipynb is used and the Tweets are written in JSON-format to a text file.
 
@@ -46,3 +49,4 @@ This notebook is used to classify the remaining (unlabeled) Tweets using the opt
 6. Use MergeAnnotations.ipynb to merge manual annotations for the gold-standard dataset with the Tweet dataset.
 7. Use ModelTuning.ipynb to find optimal parameter values for classifying Tweets using the gold-standard dataset.
 8. Use TweetClassification.ipynb to classify the remaining (unlabeled) Tweets with the optimal model.
+9. Use Results.ipynb to visualize the results for the selection of parties you wish to see.
