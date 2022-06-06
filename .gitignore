@@ -1,8 +1,9 @@
 # Twitter API Token #
 token.txt
 
-# Jupyter notebook checkpoints #
+# Folders
 .ipynb_checkpoints/
+results/
 
 # Text files #
 *.txt
