@@ -4,10 +4,3 @@ token.txt
 # Folders
 .ipynb_checkpoints/
 results/
-
-# Text files #
-*.txt
-*.csv
-
-# Images #
-*.png
