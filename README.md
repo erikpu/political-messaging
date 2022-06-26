@@ -1,10 +1,10 @@
-# Political messaging and user engagement in The Netherlands
+# The effects of political messaging on user engagement on Twitter during the 2021 Dutch national elections
 Author: Erik Puijk <br>
 Date: February 17, 2022
 
 ## Introduction
-This repository contains all relevant code used in my Master's Thesis project about political messaging and user engagement. <br>
-The thesis aims to gain more insight into the extent to which different messaging strategies by political parties engage users on social media. It does so by examining the messaging of political parties and party leaders on Twitter during the 2021 elections for the House of Representatives in The Netherlands.
+This repository contains all relevant code and data used in my Master's Thesis project about political messaging and online engagement. <br>
+The thesis aimed to increase insights into the extent to which different messaging strategies by political parties engaged users on social media. It did so by examining the messaging of political parties and party leaders on Twitter during the 2021 elections for the House of Representatives in The Netherlands.
 
 ## Technologies
 - Python 3
